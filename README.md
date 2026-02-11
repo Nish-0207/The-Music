@@ -28,20 +28,6 @@ Search: Real-time search by song title or artist.
 
 Smart Filtering: Automatically filters out short audio clips (under 15s) like ringtones or notifications.
 
-📱 Screenshots
-
-Home Screen
-
-Player Screen
-
-Playlist Management
-
-(Add screenshot here)
-
-(Add screenshot here)
-
-(Add screenshot here)
-
 🛠️ Tech Stack
 
 Framework: Flutter (Dart)
